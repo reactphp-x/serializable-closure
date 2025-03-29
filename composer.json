@@ -1,0 +1,20 @@
+{
+    "name": "reactphp-x/serializable-closure",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "ReactphpX\\SerializableClosure\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "wpjscc",
+            "email": "wpjscc@gmail.com"
+        }
+    ],
+    "require": {
+        "laravel/serializable-closure": "^2.0"
+    },
+    "require-dev": {
+    }
+}
